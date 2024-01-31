@@ -1,4 +1,4 @@
-import Viewers from "./viewers";
+import Viewers from "./Viewers";
 
 export default function BlogLeft() {
   return (
