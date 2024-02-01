@@ -1,7 +1,7 @@
-export default function Logo() {
+export default function Logo(props) {
   return (
     <div className="w-full z-50">
-      <p className="text-2xl sm:text-3xl lg:text-2xl xl:text-3xl font-logoFont">
+      <p className={props.styles}>
         <span className="text-primaryColor">Holo</span>
         <span className="text-white">Gaze</span>
         <span className="text-primaryColor">.</span>
