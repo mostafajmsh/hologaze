@@ -1,4 +1,4 @@
-export default function MobileNav() {
+export default function MobileMenuBtn() {
   return (
     <div className="w-full lg:w-0">
       <div className="menu-icon cursor-pointer flex lg:hidden flex-col justify-between w-[30px] h-5">

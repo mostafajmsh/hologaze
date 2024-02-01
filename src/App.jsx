@@ -1,12 +1,12 @@
-import Header from "./Header/Header";
-import Banner from "./Banner/Banner";
-import BannerBg from "./BgShapes/BannerBg";
-import HeaderBg from "./BgShapes/HeaderBg";
-import Product from "./Product/Product";
-import Blog from "./Blog/Blog";
-import Games from "./Games/Games";
-import Faq from "./Faq/Faq";
-import Footer from "./Footer/Footer";
+import Header from "./components/Header/Header";
+import Banner from "./components/Banner/Banner";
+import BannerBg from "./components/BgShapes/BannerBg";
+import HeaderBg from "./components/BgShapes/HeaderBg";
+import Product from "./components/Product/Product";
+import Blog from "./components/Blog/Blog";
+import Games from "./components/Games/Games";
+import Faq from "./components/Faq/Faq";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
